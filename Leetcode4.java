@@ -9,7 +9,6 @@ class Solution {
                 int temp = matrix[i][j];
                 int x = j+1;
                 int y = i+1;
-                // switch x and ys
                 int newX = -y + matrix.length;
                 int newY = x-1;
                 // System.out.println("Swapping : (" + temp + ")" + " with " + "(" + matrix[newY][newX] + ")");
