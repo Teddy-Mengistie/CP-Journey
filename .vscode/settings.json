@@ -3,6 +3,9 @@
         "array": "cpp",
         "deque": "cpp",
         "list": "cpp",
-        "vector": "cpp"
-    }
+        "vector": "cpp",
+        "iostream": "cpp",
+        "set": "cpp"
+    },
+    "cmake.configureOnOpen": true
 }
